@@ -18,7 +18,7 @@ Useful for forensics, malware analysis, software auditing, or simply identifying
 ## 📦 Requirements
 -Python version `Python 3.0+`
 
-- Required package pywin32:
+- Required package pywin32:<br>
 `pip install pywin32`
 
 ---

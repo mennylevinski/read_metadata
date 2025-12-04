@@ -14,7 +14,7 @@ It uses win32api (from pywin32) to read the embedded version info and displays f
 Useful for forensics, malware analysis, software auditing, or simply identifying unknown executables.
 
 ## 📦 Requirements
--Python version
+-Python version:
 `Python 3.0+`
 
 - Required package pywin32:

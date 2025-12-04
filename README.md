@@ -11,6 +11,8 @@ It uses win32api (from pywin32) to read the embedded version info and displays f
 - Original Filename
 - Internal Name
 
+---
+
 Useful for forensics, malware analysis, software auditing, or simply identifying unknown executables.
 
 ## 📦 Requirements
@@ -19,6 +21,8 @@ Useful for forensics, malware analysis, software auditing, or simply identifying
 
 - Required package pywin32:
 `pip install pywin32`
+
+---
 
 ## ▶️ How to Use
 - Double click or Run the script from CMD:

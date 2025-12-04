@@ -13,7 +13,7 @@ It uses win32api (from pywin32) to read the embedded version info and displays f
 
 ---
 
-Useful for forensics, malware analysis, software auditing, or simply identifying unknown executables.
+Useful for forensics, malware analysis or simply identifying unknown executables.
 
 ## 📦 Requirements
 -Python version `Python 3.0+`
@@ -25,7 +25,7 @@ Useful for forensics, malware analysis, software auditing, or simply identifying
 
 ## ▶️ How to Use
 - Double click or Run the script from CMD:
-`python exe_info_reader.py`
+`read_metadata.py`
 
 - You will be prompted to enter the full path to an executable:<br>
 `Enter a full path to a Windows executable (.exe)`<br>

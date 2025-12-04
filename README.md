@@ -24,6 +24,6 @@ Useful for forensics, malware analysis, software auditing, or simply identifying
 - Double click or Run the script from CMD:
 `python exe_info_reader.py`
 
-- You will be prompted to enter the full path to an executable:
+- You will be prompted to enter the full path to an executable:<br>
 `Enter a full path to a Windows executable (.exe)`<br>
 `Path to EXE: C:\Users\You\Desktop\program.exe`

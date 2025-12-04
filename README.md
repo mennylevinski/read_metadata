@@ -21,7 +21,7 @@ Useful for forensics, malware analysis, software auditing, or simply identifying
 `pip install pywin32`
 
 ## ▶️ How to Use
-- Double click or Run the script from terminal:
+- Double click or Run the script from cmd:
 `python exe_info_reader.py`
 
 - You will be prompted to enter the full path to an executable:

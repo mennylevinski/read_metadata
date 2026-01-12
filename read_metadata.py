@@ -1,3 +1,9 @@
+# -*- coding: utf-8 -*-
+
+"""
+Author: Menny Levinski
+"""
+
 import os, sys
 import win32api
 

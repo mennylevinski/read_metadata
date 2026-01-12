@@ -1,7 +1,6 @@
 import os, sys
 import win32api
 
-
 def read_exe_info(path):
     try:
         info = win32api.GetFileVersionInfo(path, '\\')
@@ -50,7 +49,6 @@ def console_ui():
         
         input("\nPress Enter to exit...")
         break
-
 
 if __name__ == "__main__":
     console_ui()

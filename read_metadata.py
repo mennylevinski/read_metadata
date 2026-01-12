@@ -1,6 +1,7 @@
 import os, sys
 import win32api
 
+
 def read_exe_info(path):
     try:
         info = win32api.GetFileVersionInfo(path, '\\')

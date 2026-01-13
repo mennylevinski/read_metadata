@@ -56,5 +56,6 @@ def console_ui():
         input("\nPress Enter to exit...")
         break
 
+# --- Output ---
 if __name__ == "__main__":
     console_ui()
